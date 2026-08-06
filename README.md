@@ -44,4 +44,5 @@ I'm into dark synth playlists, turning X into a full-time game,<br>and slowly au
   <a href="https://t.me/argona_print"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram"></a>
 </div>
 
-<!-- This repository powers the public @Argona7 profile. -->
+<!-- This repository powers the public @Argona7 profile.
+     Mascot art and loop video generated with Higgsfield. -->
