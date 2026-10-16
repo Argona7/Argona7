@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="argona: ai can do almost anything now. most people still have no idea how to make money with it." width="100%">
+  <img src="./assets/banner.png" alt="argona: ai can do almost anything now. i ship it." width="100%">
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 |---|---|---|
 | 🛰 | **[stampede](https://github.com/Argona7/stampede)** | Read-only explorer of observed wallet rotations on Robinhood Chain · 140★ |
 | 🧭 | **[novpn](https://github.com/Argona7/novpn)** | Keep the VPN on, chosen sites go through your real ISP on macOS. Russia mode, instant switch, pf kill switch |
-| 🎨 | **[opus-design-studio](https://github.com/Argona7/opus-design-studio)** | A Claude Code skill that gives Opus eyes: screenshots its own pages, critiques them against your taste, fixes them |
-| 🌙 | **[overnight-revenue-agent](https://github.com/Argona7/overnight-revenue-agent)** | One agent audits a batch of apps, finds the shared bug, patches every one while you sleep |
-| 📊 | **[tokens](https://github.com/Argona7/tokens)** | One command for token usage, real rate limits and cost across Claude Code, Cursor and Codex |
-| ⌨️ | **[ru2en](https://github.com/Argona7/ru2en)** | System-wide RU → EN translator for macOS: select, double-tap Cmd+C, done in under a second |
-| 🧵 | **[x-gist](https://github.com/Argona7/x-gist)** | Chrome extension: a Get context button under any X post explains it so you can reply fast |
-| 🧾 | **[reaper](https://github.com/Argona7/reaper)** | Open-source debt operations agent with approval-gated actions and a nightly report |
+| ⌨️ | **[ru2en](https://github.com/Argona7/ru2en)** | System-wide RU → EN translator for macOS: select text, double-tap Cmd+C, native English in under a second |
+| 🔀 | **[tailscale-route-fix](https://github.com/Argona7/tailscale-route-fix)** | macOS daemon that keeps Tailscale working next to Happ, AmneziaVPN, Outline and OpenVPN |
+| 🤝 | **[coagent](https://github.com/Argona7/coagent)** | Hooks that let Claude Code and Kimi CLI know what each other is doing on the same machine, no polling |
+| 🎙 | **[youtube-transcript-harvester](https://github.com/Argona7/youtube-transcript-harvester)** | Local YouTube transcripts with WhisperKit plus ready-to-analyse bundles for Claude Code |
+| 🍪 | **[cookie-exporter](https://github.com/Argona7/cookie-exporter)** | Local-only macOS CLI that exports Chromium cookies with an explicit preview and confirmation |
+| 🚀 | **[when-the-link-to-earth-is-severed](https://github.com/Argona7/when-the-link-to-earth-is-severed)** | Offline-first clinical language models for crewed deep-space missions: paper, figures and an HTML build |
 
 ### `> cat ~/stack`
 
