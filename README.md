@@ -1,48 +1,42 @@
-<img src="./assets/profile-art.png" width="26%" align="right" alt="Argona's dark mascot, perched with a tiny laptop">
-
-### 👋 Hi, I'm Argona — aka `@Argona0x`
-
-**Vibecoder, content creator, and professional button-pusher for AI agents.**
-
-I build agent tools, posting pipelines and strange little systems<br>that run the whole show while I'm somewhere else.
-
-**Vibe-coded software. Clickbait with a pulse.**
-
-<pre>
-🤖 AI agents • automation • X/Twitter growth
-⌨️ Claude Code • Kimi CLI • Codex • Cursor
-🎨 Higgsfield • GPT Image 2 • Krea
-🐍 Python • FastAPI • single-file HTML
-🍎 MacBook for vibes • Mac Mini for prod
-</pre>
-
-<p>
-  <a href="https://github.com/Argona7/overnight-revenue-agent"><img src="./assets/skills/overnight-agent.svg" height="30" alt="Overnight Agent"></a>
-  <a href="https://github.com/Argona7/CanvasTTY"><img src="./assets/skills/canvastty.svg" height="30" alt="CanvasTTY"></a>
-  <a href="https://github.com/Argona7/tokens"><img src="./assets/skills/tokens.svg" height="30" alt="tokens"></a>
-  <a href="https://github.com/Argona7/cookie-exporter"><img src="./assets/skills/cookie-exporter.svg" height="30" alt="cookie-exporter"></a>
-  <a href="https://github.com/Argona7/tailscale-route-fix"><img src="./assets/skills/route-fix.svg" height="30" alt="route-fix"></a>
-  <a href="https://github.com/Argona7/when-the-link-to-earth-is-severed"><img src="./assets/skills/severed-link.svg" height="30" alt="severed-link"></a>
+<p align="center">
+  <img src="./assets/banner.png" alt="argona: ai can do almost anything now. most people still have no idea how to make money with it." width="100%">
 </p>
 
-<br clear="right">
+<p align="center">
+  <a href="https://x.com/Argona0x"><img alt="X @Argona0x" src="https://img.shields.io/badge/X-@Argona0x-E8E2CC?style=for-the-badge&logo=x&logoColor=E8E2CC&labelColor=3A3E2E&color=464A38"></a>
+  <a href="https://t.me/argona_print"><img alt="Telegram RU" src="https://img.shields.io/badge/Telegram-RU_channel-E8E2CC?style=for-the-badge&logo=telegram&logoColor=E8E2CC&labelColor=3A3E2E&color=464A38"></a>
+  <a href="https://t.me/+r0clI4-MMC03ZjAy"><img alt="Telegram EN" src="https://img.shields.io/badge/Telegram-EN_alliance-E8E2CC?style=for-the-badge&logo=telegram&logoColor=E8E2CC&labelColor=3A3E2E&color=464A38"></a>
+</p>
 
-### 🌒 Outside the terminal
+<p align="center">
+  <b>18, vibe coder.</b> I ship agent tools, Mac utilities and growth systems, mostly overnight, mostly with AI.<br>
+  33K+ on X · building in public · DMs open for collabs
+</p>
 
-I'm into dark synth playlists, turning X into a full-time game,<br>and slowly automating myself out of a job.
+<br>
 
-18 y.o. • ~21k on [X](https://x.com/Argona0x) and counting • posting is a system, not a mood.
+### `> ls ~/shipped`
 
-🇷🇺 Native Russian speaker. English for the timeline.
+| | project | what it does |
+|---|---|---|
+| 🛰 | **[stampede](https://github.com/Argona7/stampede)** | Read-only explorer of observed wallet rotations on Robinhood Chain · 140★ |
+| 🧭 | **[novpn](https://github.com/Argona7/novpn)** | Keep the VPN on, chosen sites go through your real ISP on macOS. Russia mode, instant switch, pf kill switch |
+| 🎨 | **[opus-design-studio](https://github.com/Argona7/opus-design-studio)** | A Claude Code skill that gives Opus eyes: screenshots its own pages, critiques them against your taste, fixes them |
+| 🌙 | **[overnight-revenue-agent](https://github.com/Argona7/overnight-revenue-agent)** | One agent audits a batch of apps, finds the shared bug, patches every one while you sleep |
+| 📊 | **[tokens](https://github.com/Argona7/tokens)** | One command for token usage, real rate limits and cost across Claude Code, Cursor and Codex |
+| ⌨️ | **[ru2en](https://github.com/Argona7/ru2en)** | System-wide RU → EN translator for macOS: select, double-tap Cmd+C, done in under a second |
+| 🧵 | **[x-gist](https://github.com/Argona7/x-gist)** | Chrome extension: a Get context button under any X post explains it so you can reply fast |
+| 🧾 | **[reaper](https://github.com/Argona7/reaper)** | Open-source debt operations agent with approval-gated actions and a nightly report |
 
-<div align="center">
-  <img src="./assets/mascot-loop.gif" width="96" alt="Mascot typing on a laptop">
-</div>
+### `> cat ~/stack`
 
-<div align="center">
-  <a href="https://x.com/Argona0x"><img src="./assets/buttons/x.svg" height="28" alt="X"></a>
-  <a href="https://t.me/argona_print"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram"></a>
-</div>
+```text
+agents   Claude Code · Codex · Cursor · Grok
+code     Python · FastAPI · single-file HTML · Swift when the Mac needs it
+visuals  Higgsfield · GPT Image · vhs
+infra    MacBook for vibes · Mac mini for prod · Tailscale
+```
 
-<!-- This repository powers the public @Argona7 profile.
-     Mascot art and loop video generated with Higgsfield. -->
+<p align="center">
+  <sub>if a thing takes me more than twice, an agent does it the third time</sub>
+</p>
