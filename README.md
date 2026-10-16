@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>18, vibe coder.</b> I ship agent tools, Mac utilities and growth systems, mostly overnight, mostly with AI.<br>
+  <b>18, vibe coder.</b> I ship agent tools, Mac utilities and growth systems with AI agents.<br>
   33K+ on X · building in public · DMs open for collabs
 </p>
 
@@ -32,11 +32,8 @@
 
 ```text
 agents   Claude Code · Codex · Cursor · Grok
-code     Python · FastAPI · single-file HTML · Swift when the Mac needs it
+code     Python · FastAPI · single-file HTML · Hammerspoon
 visuals  Higgsfield · GPT Image · vhs
 infra    MacBook for vibes · Mac mini for prod · Tailscale
 ```
 
-<p align="center">
-  <sub>if a thing takes me more than twice, an agent does it the third time</sub>
-</p>
